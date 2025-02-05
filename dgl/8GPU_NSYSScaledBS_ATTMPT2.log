@@ -1,0 +1,5 @@
+Epoch 00000 | Step 00000 | Loss 5.8803 | Train Acc 0.0247 | Speed (samples/sec) nan | GPU 1145.8 MiB
+Epoch Time(s): 7.2377
+Epoch 00001 | Step 00000 | Loss 2.3798 | Train Acc 0.7197 | Speed (samples/sec) 129035.8686 | GPU 1153.4 MiB
+Epoch Time(s): 3.7127
+Approx avg epoch time: 0.0

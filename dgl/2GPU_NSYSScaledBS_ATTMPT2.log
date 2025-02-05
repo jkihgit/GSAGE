@@ -1,0 +1,11 @@
+Epoch 00000 | Step 00000 | Loss 6.4771 | Train Acc 0.0186 | Speed (samples/sec) nan | GPU 502.3 MiB
+Epoch 00000 | Step 00020 | Loss 0.7782 | Train Acc 0.8848 | Speed (samples/sec) 25092.6742 | GPU 532.8 MiB
+Epoch 00000 | Step 00040 | Loss 0.5889 | Train Acc 0.9131 | Speed (samples/sec) 24837.9742 | GPU 532.8 MiB
+Epoch 00000 | Step 00060 | Loss 0.5706 | Train Acc 0.9209 | Speed (samples/sec) 24213.7752 | GPU 532.8 MiB
+Epoch Time(s): 15.7544
+Epoch 00001 | Step 00000 | Loss 0.3718 | Train Acc 0.9561 | Speed (samples/sec) 23952.4302 | GPU 532.8 MiB
+Epoch 00001 | Step 00020 | Loss 0.1961 | Train Acc 0.9502 | Speed (samples/sec) 23777.6065 | GPU 532.8 MiB
+Epoch 00001 | Step 00040 | Loss 0.2097 | Train Acc 0.9482 | Speed (samples/sec) 23524.7529 | GPU 532.8 MiB
+Epoch 00001 | Step 00060 | Loss 0.4433 | Train Acc 0.9600 | Speed (samples/sec) 23558.3286 | GPU 532.8 MiB
+Epoch Time(s): 13.1246
+Approx avg epoch time: 0.0
