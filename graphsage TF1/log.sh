@@ -1,0 +1,1 @@
+"/mnt/graphsage/GraphSAGE/graphsage/supervised_train.py --train_prefix data/pubmed/pubmed --model graphsage_mean --dim_1 512 --dim_2 512 --samples_1 25 --samples_2 10 --batch_size 512 --validate_batch_size 512 --sigmoid --base_log_dir devtest --epochs 1 --dataset_size_ratio 0.9" >> log.log
